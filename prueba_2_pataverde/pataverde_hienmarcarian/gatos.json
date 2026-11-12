@@ -1,0 +1,14 @@
+[
+  {
+    "exterior": true,
+    "nombre": "Gaston",
+    "edad": 10,
+    "peso": 4.6
+  },
+  {
+    "exterior": true,
+    "nombre": "minimichi",
+    "edad": 2,
+    "peso": 3.0
+  }
+]

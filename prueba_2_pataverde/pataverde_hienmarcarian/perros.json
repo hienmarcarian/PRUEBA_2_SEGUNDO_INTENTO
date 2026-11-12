@@ -1,0 +1,26 @@
+[
+  {
+    "raza": "san bernardo",
+    "vacunado": true,
+    "disponibleAdopcion": false,
+    "nombre": "bethoven",
+    "edad": 2,
+    "peso": 20.0
+  },
+  {
+    "raza": "chihuahua",
+    "vacunado": false,
+    "disponibleAdopcion": false,
+    "nombre": "copito",
+    "edad": 5,
+    "peso": 5.0
+  },
+  {
+    "raza": "golden",
+    "vacunado": false,
+    "disponibleAdopcion": true,
+    "nombre": "oso",
+    "edad": 4,
+    "peso": 15.7
+  }
+]
